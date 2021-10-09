@@ -10,4 +10,8 @@ area = side_a * side_b
 perimeter = 2 * (side_a + side_b)
 
 print(f'area is {area:.2f}')
+<<<<<<< HEAD
 print(f'perimeter is {perimeter:.2f}')
+=======
+print(f'perimeter is {perimeter:.2f}')
+>>>>>>> 0eceea841bddda1001a1ff33d8793889670b61c8
