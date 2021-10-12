@@ -11,9 +11,6 @@ total_pen_pack = PEN_PACK * number_pen_pack
 total_markets_pack = MARKERS_PACK * number_markers_pack
 total_detergent_liters = DETERGENT_LITER * detergent_liters
 total_materials = total_pen_pack + total_markets_pack + total_detergent_liters
-total_discount = total_materials
+total_money = total_materials * (1 - discount / 100)
 
-
-print(total_money_needed)
-
-djdjd
+print(total_money)
