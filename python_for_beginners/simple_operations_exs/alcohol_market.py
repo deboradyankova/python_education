@@ -9,7 +9,7 @@ wine_price = rakia_price * 0.6
 beer_price = rakia_price * 0.2
 
 total = beer_price * beer_amount \
-        + wine_price * wine_amoun \
+        + wine_price * wine_amount \
         + rakia_amount * rakia_price \
         + whiskey_amount * whiskey_price
 
