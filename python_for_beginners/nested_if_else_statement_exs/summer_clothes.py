@@ -1,7 +1,7 @@
 outfits = ['T-Shirt', 'Shirt', 'Sweatshirt', 'Swim suit', ]
 shoes = ['Sneakers', 'Moccasins', 'Sandals', 'Barefoot', ]
 
-combs = [(2, 1), (1, 1), (0, 2), (3, 3)]
+combs = [(2, 0), (1, 1), (0, 2), (3, 3)]
 
 mapper = {
     10_18: {
