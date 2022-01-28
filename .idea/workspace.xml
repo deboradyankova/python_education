@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.find_the_capitals">
+  <component name="RunManager" selected="Python.concat_names">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,20 +97,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alcohol_market" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="centuries_to_minutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_education" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Dell\PycharmProjects\first_steps_in_coding\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_fundamentals/data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs/alcohol_market.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_fundamentals/data_types_and_variables/centuries_to_minutes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,42 +119,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="charity_campaign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="concat_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_education" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Dell\PycharmProjects\first_steps_in_coding\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_fundamentals/data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs/charity_campaign.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dance_hall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Dell\PycharmProjects\first_steps_in_coding\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs/dance_hall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_fundamentals/data_types_and_variables/concat_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rad_to_deg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="how_much_coffee_do_you_need" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_education" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,12 +171,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Dell\PycharmProjects\first_steps_in_coding\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_fundamentals/basic_syntax_conditional_statements_and_loops_exs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_for_beginners/simple_operations_exs/rad_to_deg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_fundamentals/basic_syntax_conditional_statements_and_loops_exs/how_much_coffee_do_you_need.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="special_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_education" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Dell\PycharmProjects\first_steps_in_coding\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_fundamentals/data_types_and_variables" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_fundamentals/data_types_and_variables/special_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,26 +308,26 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.alcohol_market" />
-      <item itemvalue="Python.charity_campaign" />
-      <item itemvalue="Python.dance_hall" />
-      <item itemvalue="Python.rad_to_deg" />
       <item itemvalue="Python.find_the_capitals" />
+      <item itemvalue="Python.how_much_coffee_do_you_need" />
+      <item itemvalue="Python.concat_names" />
+      <item itemvalue="Python.centuries_to_minutes" />
+      <item itemvalue="Python.special_numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.concat_names" />
+        <item itemvalue="Python.special_numbers" />
+        <item itemvalue="Python.centuries_to_minutes" />
+        <item itemvalue="Python.how_much_coffee_do_you_need" />
         <item itemvalue="Python.find_the_capitals" />
-        <item itemvalue="Python.rad_to_deg" />
-        <item itemvalue="Python.alcohol_market" />
-        <item itemvalue="Python.charity_campaign" />
-        <item itemvalue="Python.dance_hall" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3c405fd-02a5-44dd-b7c9-bef1aafdb922" name="Default Changelist" comment="" />
+      <changelist id="8a86cf58-2e44-418e-8496-e744d7e85729" name="Default Changelist" comment="" />
       <created>1632044519053</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -337,6 +337,7 @@
       <workItem from="1632723583063" duration="13014000" />
       <workItem from="1633085985700" duration="1213000" />
       <workItem from="1633087241357" duration="25838000" />
+      <workItem from="1642367345233" duration="10208000" />
     </task>
     <servers />
   </component>
@@ -351,6 +352,11 @@
           <line>4</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_fundamentals/basic_syntax_conditional_statements_and_loops_exs/how_much_coffee_do_you_need.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -358,12 +364,15 @@
     <SUITE FILE_PATH="coverage/python_education$aquarium.coverage" NAME="aquarium Coverage Results" MODIFIED="1633206357911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
     <SUITE FILE_PATH="coverage/python_education$area_rectangle.coverage" NAME="area_rectangle Coverage Results" MODIFIED="1633466187338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$calculating_square_area.coverage" NAME="calculating_square_area Coverage Results" MODIFIED="1633100179268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
+    <SUITE FILE_PATH="coverage/python_education$how_much_coffee_do_you_need.coverage" NAME="how_much_coffee_do_you_need Coverage Results" MODIFIED="1642691791251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_fundamentals/basic_syntax_conditional_statements_and_loops_exs" />
     <SUITE FILE_PATH="coverage/python_education$string.coverage" NAME="string Coverage Results" MODIFIED="1632570388714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners" />
     <SUITE FILE_PATH="coverage/python_education$a.coverage" NAME="a Coverage Results" MODIFIED="1633507000787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
     <SUITE FILE_PATH="coverage/python_education$currency_converter.coverage" NAME="currency_converter Coverage Results" MODIFIED="1633429817434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1633093255054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
-    <SUITE FILE_PATH="coverage/python_education$rad_to_deg.coverage" NAME="rad_to_deg Coverage Results" MODIFIED="1633433354640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
+    <SUITE FILE_PATH="coverage/python_education$rad_to_deg.coverage" NAME="rad_to_deg Coverage Results" MODIFIED="1642367366863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$from_inch_to_cm.coverage" NAME="from_inch_to_cm Coverage Results" MODIFIED="1633432052354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
+    <SUITE FILE_PATH="coverage/python_education$special_numbers.coverage" NAME="special_numbers Coverage Results" MODIFIED="1643400086156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_fundamentals/data_types_and_variables" />
+    <SUITE FILE_PATH="coverage/python_education$alcohol_market.coverage" NAME="alcohol_market Coverage Results" MODIFIED="1642367353896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$asd.coverage" NAME="asd Coverage Results" MODIFIED="1633519426325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$demos.coverage" NAME="demos Coverage Results" MODIFIED="1631879805656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_begginers" />
     <SUITE FILE_PATH="coverage/python_education$bobi.coverage" NAME="bobi Coverage Results" MODIFIED="1633506953499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
@@ -373,11 +382,14 @@
     <SUITE FILE_PATH="coverage/python_education$zoo_shop.coverage" NAME="zoo_shop Coverage Results" MODIFIED="1633432022650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
     <SUITE FILE_PATH="coverage/python_education$textile_factory.coverage" NAME="textile_factory Coverage Results" MODIFIED="1633504239675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$App.coverage" NAME="App Coverage Results" MODIFIED="1632572271808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners" />
+    <SUITE FILE_PATH="coverage/python_education$find_the_capitals.coverage" NAME="find_the_capitals Coverage Results" MODIFIED="1642367401105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_fundamentals/basic_syntax_conditional_statements_and_loops_exs" />
+    <SUITE FILE_PATH="coverage/python_education$concat_names.coverage" NAME="concat_names Coverage Results" MODIFIED="1643400610037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_fundamentals/data_types_and_variables" />
     <SUITE FILE_PATH="coverage/python_education$demo.coverage" NAME="demo Coverage Results" MODIFIED="1633005769787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/first_steps" />
     <SUITE FILE_PATH="coverage/python_education$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1633088042457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/first_steps" />
     <SUITE FILE_PATH="coverage/python_education$projekt__calculator.coverage" NAME="projekt _calculator Coverage Results" MODIFIED="1633171729655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
     <SUITE FILE_PATH="coverage/python_education$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1632572312207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners" />
     <SUITE FILE_PATH="coverage/python_education$concatinating_numbers_and_str.coverage" NAME="concatinating_numbers_and_str Coverage Results" MODIFIED="1633098518540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations" />
+    <SUITE FILE_PATH="coverage/python_education$centuries_to_minutes.coverage" NAME="centuries_to_minutes Coverage Results" MODIFIED="1643367828602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_fundamentals/data_types_and_variables" />
     <SUITE FILE_PATH="coverage/python_education$import_math.coverage" NAME="import_math Coverage Results" MODIFIED="1633350842471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$rad_to_deg_2.coverage" NAME="rad_to_deg_2 Coverage Results" MODIFIED="1633353998035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
     <SUITE FILE_PATH="coverage/python_education$nex_ex.coverage" NAME="nex_ex Coverage Results" MODIFIED="1633507004158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_for_beginners/simple_operations_exs" />
